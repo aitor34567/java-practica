@@ -1,0 +1,21 @@
+
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(á¹Ëİøÿÿÿÿ
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(á¹Ëİøÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º†›y
+0
+java:S1220""Move this file to a named package.
+K
+java:S1854"5Remove this useless assignment to local variable "j".(ÖÛÆ²
+E
+java:S1197"*Move the array designators [] to the type.(²ûŒşÿÿÿÿ
+>
+java:S1481"(Remove this unused "aux" local variable.(­şĞ¯
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ÇÕ››ùÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(âõøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ˆ•€É
+<
+java:S1481"&Remove this unused "j" local variable.(ÖÛÆ²
+E	java:S106"+Replace this use of System.out by a logger.(âõøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÉÓùüıÿÿÿÿ
