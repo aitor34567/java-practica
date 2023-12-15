@@ -1,25 +1,0 @@
-
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢ŞÇ—ûÿÿÿÿ
-0
-java:S1220""Move this file to a named package.
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(œû¿Ø
-@	java:S106
-"+Replace this use of System.out by a logger.(Çò
-E	java:S106"+Replace this use of System.out by a logger.(êù¦²üÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(âòò­
-E	java:S106"+Replace this use of System.out by a logger.(§òÜøÿÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(¶ö¹úÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Á¾—úÿÿÿÿ
-@	java:S106&"+Replace this use of System.out by a logger.(áä¡ı
-E	java:S106)"+Replace this use of System.out by a logger.(Ç«Ìûÿÿÿÿ
-E	java:S106-"+Replace this use of System.out by a logger.(ı¦´Îùÿÿÿÿ
-E	java:S1062"+Replace this use of System.out by a logger.(“µñ¸ÿÿÿÿÿ
-E	java:S106:"+Replace this use of System.out by a logger.(…ĞéÎúÿÿÿÿ
-E	java:S106<"+Replace this use of System.out by a logger.(…ĞéÎúÿÿÿÿ
-E	java:S106?"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
-@	java:S106F"+Replace this use of System.out by a logger.(ÁÖæø
-@	java:S106I"+Replace this use of System.out by a logger.(©ØÎ­
-Q	java:S125f"<This block of commented-out lines of code should be removed.(¹½†¸
-Û
-java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 65 to 64, Complexity from 20 to 14, Nesting Level from 6 to 2, Number of Variables from 9 to 6.(œû¿Ø

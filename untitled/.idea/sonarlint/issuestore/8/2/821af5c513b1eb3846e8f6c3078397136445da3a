@@ -1,26 +1,0 @@
-
-f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(γ§
-0
-java:S1220""Move this file to a named package.
-V
-java:S1854'";Remove this useless assignment to local variable "scanner".(ω ƒ‘όÿÿÿÿ
-M
-java:S1135"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ
-;
-java:S2129" Remove this "String" constructor(πυ’ϋÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(¤Μπ όÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Α¨‡£ϋÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(έ—…
-E	java:S106"+Replace this use of System.out by a logger.(ζ³γεωÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ϊΐλύÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ΓΆΰ
-@	java:S106"+Replace this use of System.out by a logger.(ϊ‰Δ¬
-E	java:S106!"+Replace this use of System.out by a logger.(«η’ύÿÿÿÿ
-E	java:S106#"+Replace this use of System.out by a logger.(Φ©Ίωϊÿÿÿÿ
-@	java:S106&"+Replace this use of System.out by a logger.(ιΆ—ξ
-G
-java:S1481'",Remove this unused "scanner" local variable.(ω ƒ‘όÿÿÿÿ
-G
-java:S1264+",Replace this "for" loop with a "while" loop.(ƒ΅΅ώÿÿÿÿ
-?	java:S106,"+Replace this use of System.out by a logger.(Ψΰϊ
-?	java:S1061"+Replace this use of System.out by a logger.(ωό’t

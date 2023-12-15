@@ -5,13 +5,12 @@ import java.util.Scanner;
 public class piramide {
     public static void main(String[] args) {
         int num=0;
-        int columna=0;
         int filas=0;
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introduzca número de filas: ");
         int numFilas = scanner.nextInt();
         while (filas<numFilas){
-            columna=0;
+            int columna=0;
             num++;
             while (columna<=filas){
                 num++;
